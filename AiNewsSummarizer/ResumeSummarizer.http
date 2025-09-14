@@ -1,0 +1,6 @@
+@ResumeSummarizer_HostAddress = http://localhost:5077
+
+GET {{ResumeSummarizer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
